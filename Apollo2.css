@@ -1,0 +1,61 @@
+
+.root{
+	-fx-background-color: white;
+}
+.label{
+	fx-background-color: white;	
+	-fx-font: 16px "Arial";
+}
+.textfield{
+	
+	-fx-background-color: transparent;	
+   -fx-text-fill: black;
+   -fx-font: 16px "Arial";
+   -fx-background-radius: 0, 0;
+  -fx-background-insets: -0, 0;
+  -fx-border-radius: 0;
+  -fx-border-width: 0; 
+}
+.button{
+ 	-fx-font: 16px "Arial";
+   -fx-background-color: #4261A1; 
+   -fx-text-fill: white;
+   -fx-font-size: 15 pt;
+   -fx-background-radius: 0, 0;
+  -fx-background-insets: -0, 0;
+  -fx-border-radius: 0;
+  -fx-border-width: 2;
+}
+.toolbar{
+	
+	-fx-background-color: #4261A1;
+}
+.borderpane{
+	-fx-background-color: transparent;
+}
+.gridpaneEdit{
+	
+    -fx-background-color: white;
+    -fx-background-radius: 5.0;
+    -fx-background-insets: 0.0 5.0 0.0 5.0;
+    -fx-padding: 10;
+  
+}
+.scrollpane{
+	
+	-fx-background-color: transparent;
+	
+}
+button:hover {
+  -fx-background-color:#dae7f3;
+}
+.hboxTogether{
+	-fx-background-color: white;
+}
+
+
+
+
+
+
+
